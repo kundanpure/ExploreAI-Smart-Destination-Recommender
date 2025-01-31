@@ -233,11 +233,10 @@ Flask development team
 IMDB weighted rating formula inspiration
 
 Contact 📧
-For questions or support: your.email@example.com
+For questions or support: kundankumar8797737@gmail.com
 
 Happy Travel Planning! ✈️🌎
 
-Copy
 
 This README includes:
 1. Comprehensive installation and usage instructions
@@ -251,9 +250,3 @@ This README includes:
 9. Responsive web interface details
 10. Troubleshooting and support information
 
-To use this README:
-1. Replace placeholder values (yourusername, your.email@example.com)
-2. Add actual screenshot URLs
-3. Ensure CSV files match the specified schema
-4. Create a LICENSE file
-5. Verify all dependencies match your environment
